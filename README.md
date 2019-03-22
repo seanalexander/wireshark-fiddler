@@ -1,5 +1,5 @@
 # 1. Wireshark
-![alt](.\Images\Wireshark_Logo.png)
+![Wireshark Logo - A Shark fin](./Images/Wireshark_Logo.png)
 
 Wireshark, doo doo doo doo doo doo.
 
